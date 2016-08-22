@@ -1,0 +1,1296 @@
+Before pruning, accuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6916167664670658
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6916167664670658
+check childAccuracy = 0.6916167664670658
+check childAccuracy = 0.6946107784431138
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6946107784431138
+check childAccuracy = 0.6946107784431138
+check childAccuracy = 0.6946107784431138
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6946107784431138
+check childAccuracy = 0.7005988023952096
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.7005988023952096
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6826347305389222
+check childAccuracy = 0.6946107784431138
+check childAccuracy = 0.6946107784431138
+check childAccuracy = 0.7125748502994012
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6826347305389222
+check childAccuracy = 0.6916167664670658
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6916167664670658
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6946107784431138
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6946107784431138
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6946107784431138
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6916167664670658
+getOptimalPruneNode is called
+check childAccuracy = 0.6916167664670658
+check childAccuracy = 0.7005988023952096
+check childAccuracy = 0.7005988023952096
+getOptimalPruneNode is called
+check childAccuracy = 0.6826347305389222
+check childAccuracy = 0.7005988023952096
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.7005988023952096
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6916167664670658
+getOptimalPruneNode is called
+check childAccuracy = 0.6826347305389222
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6916167664670658
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6946107784431138
+getOptimalPruneNode is called
+check childAccuracy = 0.6946107784431138
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6946107784431138
+check childAccuracy = 0.6946107784431138
+getOptimalPruneNode is called
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6946107784431138
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.6976047904191617
+check childAccuracy = 0.6976047904191617
+check childAccuracy = 0.688622754491018
+check childAccuracy = 0.7065868263473054
+depth = 1, accuracy = [D@15db9742
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7065868263473054
+check childAccuracy = 0.7155688622754491
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7155688622754491
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.718562874251497
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.718562874251497
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.718562874251497
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7155688622754491
+getOptimalPruneNode is called
+check childAccuracy = 0.7155688622754491
+check childAccuracy = 0.7245508982035929
+check childAccuracy = 0.7245508982035929
+getOptimalPruneNode is called
+check childAccuracy = 0.7065868263473054
+check childAccuracy = 0.7245508982035929
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7245508982035929
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7155688622754491
+getOptimalPruneNode is called
+check childAccuracy = 0.7065868263473054
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7155688622754491
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.718562874251497
+getOptimalPruneNode is called
+check childAccuracy = 0.718562874251497
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.718562874251497
+check childAccuracy = 0.718562874251497
+getOptimalPruneNode is called
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.718562874251497
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7215568862275449
+check childAccuracy = 0.7215568862275449
+check childAccuracy = 0.7125748502994012
+check childAccuracy = 0.7305389221556886
+getOptimalPruneNode is called
+depth = 2, accuracy = [D@6d06d69c
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7245508982035929
+check childAccuracy = 0.7335329341317365
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7335329341317365
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7365269461077845
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7365269461077845
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7365269461077845
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7335329341317365
+getOptimalPruneNode is called
+check childAccuracy = 0.7335329341317365
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+getOptimalPruneNode is called
+check childAccuracy = 0.7245508982035929
+check childAccuracy = 0.7425149700598802
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7425149700598802
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7335329341317365
+getOptimalPruneNode is called
+check childAccuracy = 0.7245508982035929
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7335329341317365
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7365269461077845
+getOptimalPruneNode is called
+check childAccuracy = 0.7365269461077845
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7365269461077845
+check childAccuracy = 0.7365269461077845
+getOptimalPruneNode is called
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7305389221556886
+check childAccuracy = 0.7365269461077845
+depth = 3, accuracy = [D@7852e922
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+getOptimalPruneNode is called
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+getOptimalPruneNode is called
+check childAccuracy = 0.7425149700598802
+getOptimalPruneNode is called
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7365269461077845
+check childAccuracy = 0.7455089820359282
+getOptimalPruneNode is called
+check childAccuracy = 0.7425149700598802
+getOptimalPruneNode is called
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+getOptimalPruneNode is called
+check childAccuracy = 0.7365269461077845
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7455089820359282
+getOptimalPruneNode is called
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7455089820359282
+getOptimalPruneNode is called
+check childAccuracy = 0.7365269461077845
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+getOptimalPruneNode is called
+check childAccuracy = 0.7425149700598802
+getOptimalPruneNode is called
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+getOptimalPruneNode is called
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7455089820359282
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+getOptimalPruneNode is called
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+getOptimalPruneNode is called
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+depth = 4, accuracy = [D@4e25154f
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7514970059880239
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7514970059880239
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7514970059880239
+getOptimalPruneNode is called
+check childAccuracy = 0.7425149700598802
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7514970059880239
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7544910179640718
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7544910179640718
+getOptimalPruneNode is called
+depth = 5, accuracy = [D@70dea4e
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7485029940119761
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7574850299401198
+depth = 6, accuracy = [D@5c647e05
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7514970059880239
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+check childAccuracy = 0.7514970059880239
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7574850299401198
+getOptimalPruneNode is called
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+depth = 7, accuracy = [D@33909752
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+check childAccuracy = 0.7544910179640718
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7634730538922155
+getOptimalPruneNode is called
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+check childAccuracy = 0.7604790419161677
+getOptimalPruneNode is called
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7604790419161677
+check childAccuracy = 0.7634730538922155
+getOptimalPruneNode is called
+depth = 8, accuracy = [D@55f96302
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+getOptimalPruneNode is called
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+getOptimalPruneNode is called
+check childAccuracy = 0.7634730538922155
+getOptimalPruneNode is called
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+getOptimalPruneNode is called
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+getOptimalPruneNode is called
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+getOptimalPruneNode is called
+check childAccuracy = 0.7574850299401198
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+getOptimalPruneNode is called
+check childAccuracy = 0.7634730538922155
+getOptimalPruneNode is called
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+getOptimalPruneNode is called
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+getOptimalPruneNode is called
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+getOptimalPruneNode is called
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+getOptimalPruneNode is called
+check childAccuracy = 0.7634730538922155
+getOptimalPruneNode is called
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+check childAccuracy = 0.7634730538922155
+depth  = 9, stop improving, final accuracy = 0.7634730538922155
+ROOT {A1?}
+    x (G)
+    n {A3?}
+        a {A2?}
+            n (B)
+            b {A5?}
+                h (G)
+                s (B)
+                n (B)
+                u (B)
+            m (G)
+            g (B)
+            w (B)
+        c {A4?}
+            r {A7?}
+                1 {A2?}
+                    n (B)
+                    b {A9?}
+                        y (B)
+                        n {A8?}
+                            1 (G)
+                            2 (B)
+                            3 (G)
+                            4 (G)
+                    m (B)
+                    g (B)
+                    w (G)
+                2 (G)
+            o {A6?}
+                c {A7?}
+                    1 {A8?}
+                        1 (G)
+                        2 {A2?}
+                            n (G)
+                            b {A5?}
+                                h (G)
+                                s {A9?}
+                                    y {A10?}
+                                        y (G)
+                                        n (G)
+                                    n (G)
+                                n (G)
+                                u (G)
+                            m (G)
+                            g (G)
+                            w (G)
+                        3 (G)
+                        4 (G)
+                    2 (G)
+                l (G)
+                r (G)
+                n (G)
+            f {A5?}
+                h (G)
+                s (B)
+                n (B)
+                u (B)
+        d (B)
+        e {A2?}
+            n {A6?}
+                c {A5?}
+                    h (B)
+                    s (B)
+                    n (B)
+                    u (G)
+                l (G)
+                r {A4?}
+                    r {A5?}
+                        h (G)
+                        s {A7?}
+                            1 {A8?}
+                                1 {A9?}
+                                    y (G)
+                                    n {A10?}
+                                        y (G)
+                                        n (G)
+                                2 (G)
+                                3 (G)
+                                4 (G)
+                            2 (G)
+                        n (G)
+                        u (G)
+                    o (G)
+                    f (G)
+                n (B)
+            b (B)
+            m {A7?}
+                1 (B)
+                2 (G)
+            g (G)
+            w (G)
+        n {A8?}
+            1 (B)
+            2 {A6?}
+                c (B)
+                l (B)
+                r {A2?}
+                    n (G)
+                    b {A4?}
+                        r (G)
+                        o {A5?}
+                            h (G)
+                            s {A7?}
+                                1 {A9?}
+                                    y (G)
+                                    n {A10?}
+                                        y (G)
+                                        n (G)
+                                2 (G)
+                            n (G)
+                            u (G)
+                        f (G)
+                    m (G)
+                    g (G)
+                    w (G)
+                n (B)
+            3 (G)
+            4 (B)
+    b {A3?}
+        a (B)
+        c {A2?}
+            n (G)
+            b {A6?}
+                c {A9?}
+                    y (G)
+                    n (B)
+                l (G)
+                r {A5?}
+                    h (G)
+                    s {A8?}
+                        1 (G)
+                        2 (B)
+                        3 (B)
+                        4 (B)
+                    n (G)
+                    u (G)
+                n (G)
+            m {A6?}
+                c (G)
+                l (G)
+                r (G)
+                n (B)
+            g (G)
+            w {A4?}
+                r (G)
+                o (G)
+                f (B)
+        d (G)
+        e {A6?}
+            c {A2?}
+                n (G)
+                b {A9?}
+                    y {A5?}
+                        h (B)
+                        s {A4?}
+                            r (B)
+                            o {A7?}
+                                1 {A8?}
+                                    1 {A10?}
+                                        y (B)
+                                        n (B)
+                                    2 (B)
+                                    3 (B)
+                                    4 (B)
+                                2 (B)
+                            f (B)
+                        n (B)
+                        u (B)
+                    n {A5?}
+                        h (B)
+                        s (G)
+                        n (G)
+                        u (G)
+                m {A4?}
+                    r (B)
+                    o {A5?}
+                        h (G)
+                        s {A7?}
+                            1 {A8?}
+                                1 {A9?}
+                                    y (G)
+                                    n {A10?}
+                                        y (G)
+                                        n (G)
+                                2 (G)
+                                3 (G)
+                                4 (G)
+                            2 (G)
+                        n (G)
+                        u (G)
+                    f (B)
+                g (B)
+                w (G)
+            l {A2?}
+                n {A5?}
+                    h (B)
+                    s (B)
+                    n (B)
+                    u (G)
+                b (G)
+                m (B)
+                g (B)
+                w (B)
+            r {A2?}
+                n (G)
+                b {A5?}
+                    h (G)
+                    s {A4?}
+                        r (B)
+                        o {A9?}
+                            y (G)
+                            n {A7?}
+                                1 {A8?}
+                                    1 {A10?}
+                                        y (G)
+                                        n (G)
+                                    2 (G)
+                                    3 (G)
+                                    4 (G)
+                                2 (G)
+                        f (G)
+                    n (G)
+                    u (G)
+                m (G)
+                g {A4?}
+                    r (G)
+                    o (B)
+                    f (G)
+                w (G)
+            n (B)
+        n {A2?}
+            n (B)
+            b {A5?}
+                h (B)
+                s (B)
+                n (B)
+                u {A8?}
+                    1 (G)
+                    2 (G)
+                    3 (B)
+                    4 (G)
+            m (B)
+            g (G)
+            w (B)
+    g (G)

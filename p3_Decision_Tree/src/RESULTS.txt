@@ -1,0 +1,4 @@
+examples1.txt and examples2.txt are TRAIN set, examples3.txt is TEST set, accuracy = 0.67066
+examples1.txt and examples3.txt are TRAIN set, examples2.txt is TEST set, accuracy = 0.70871
+examples2.txt and examples3.txt are TRAIN set, examples1.txt is TEST set, accuracy = 0.68769
+The average accuracy of above three cases = 0.68902
